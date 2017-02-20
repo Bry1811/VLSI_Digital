@@ -941,7 +941,7 @@ EY||D5G2;|conn@2|y|U
 X
 
 # Cell Sumador;2{lay}
-CSumador;2{lay}||mocmos|1433303877318|1487564578776||DRC_last_good_drc_area_date()G1487564580468|DRC_last_good_drc_bit()I18|DRC_last_good_drc_date()G1487564580468
+CSumador;2{lay}||mocmos|1433303877318|1487565319813||DRC_last_good_drc_area_date()G1487564580468|DRC_last_good_drc_bit()I18|DRC_last_good_drc_date()G1487564580468
 Ngeneric:Facet-Center|art@0||0|0||||AV
 NMetal-1-N-Active-Con|contact@7||2|19|15|||
 NMetal-1-N-Active-Con|contact@8||-1.5|27|8|||
@@ -973,7 +973,7 @@ NMetal-1-Polysilicon-1-Con|contact@40||73.5|46.5||||
 NMetal-1-P-Active-Con|contact@41||104|35.5||||
 NMetal-1-Polysilicon-1-Con|contact@42||18.5|23||||
 NMetal-1-Polysilicon-1-Con|contact@43||18.5|31||||
-NMetal-1-Polysilicon-1-Con|contact@47||-47.5|58.5||||
+NMetal-1-Polysilicon-1-Con|contact@47||-47.5|60.5||||
 NMetal-1-Metal-2-Con|contact@48||18|53.5||||
 NMetal-1-Metal-2-Con|contact@49||18|44||||
 NN-Transistor|nmos@3||2|23|17||||SIM_spice_model(D5G1;)SNMOS
@@ -1124,7 +1124,7 @@ APolysilicon-1|net@165|||S1800|nmos@6|poly-right|14|31|contact@43||18|31
 APolysilicon-1|net@166|||S0|pmos@4|poly-left|22|31|contact@43||18|31
 APolysilicon-1|net@174|||S0|pmos@5|poly-left|22|40|nmos@7|poly-right|14|40
 APolysilicon-1|net@178|||S0|nmos@15|poly-left|-43|40|pin@37||-47.5|40
-APolysilicon-1|net@180|||S900|contact@47||-47.5|58|pin@37||-47.5|40
+APolysilicon-1|net@180|||S900|contact@47||-47.5|60|pin@37||-47.5|40
 AMetal-1|net@182||1|S1800|pin@17||-27.5|53.5|contact@48||19|53.5
 AMetal-1|net@183||1|S1800|contact@48||19|53.5|pin@18||84.5|53.5
 AMetal-1|net@184||1|S1800|contact@12||2|44|contact@49||18|44
